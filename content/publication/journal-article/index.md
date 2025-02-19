@@ -11,7 +11,7 @@ authors:
 author_notes:
 date: "2025-02-01T00:00:00Z"
 doi: "10.1109/LCSYS.2025.3532470"
-url: 'https://ieeexplore.ieee.org/document/10848219'
+url: https://ieeexplore.ieee.org/document/10848219
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
