@@ -44,9 +44,10 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Tensor Algebra
+  - Numerical Analysis
+  - Network Science
+  - Machine Learning
 
 education:
   - area: BSc Mathematics & BA Psychology, minor in Statistics and Analytics
@@ -56,9 +57,9 @@ education:
     summary: |
       GPA: 3.99/4.00
       Thesis on compressible features.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+    #button:
+    #  text: 'Read Thesis'
+    #  url: 'https://example.com'
 
 work:
   - position: Awesome job
@@ -109,7 +110,7 @@ languages:
   - name: English
     percent: 100
   - name: Chinese
-    percent: 75
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
