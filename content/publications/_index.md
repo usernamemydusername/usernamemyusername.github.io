@@ -1,6 +1,8 @@
 ---
 title: ''
 cms_exclude: true
+types: landing
+
 
 # View.
 view: citation

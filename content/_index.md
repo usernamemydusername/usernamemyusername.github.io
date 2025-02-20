@@ -40,12 +40,12 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: papers
+    id: publications
     content:
       title: Featured Publications
       filters:
         folders:
-          - publications/publication
+          - publications
         featured_only: true
     design:
       view: article-grid
@@ -56,7 +56,7 @@ sections:
       text: ""
       filters:
         folders:
-          - publications/publication
+          - publications
         exclude_featured: false
     design:
       view: citation
