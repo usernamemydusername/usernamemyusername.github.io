@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'Publications'
 cms_exclude: true
 types: landing
 
@@ -8,33 +8,28 @@ types: landing
 view: citation
 
 sections:
-  - block: markdown
-    content:
-      title: "Published Papers"
-      text: ""
   - block: collection
+    id: publication
     content:
-      title: "Publications"
+      title: Publications
       filters:
         folders:
           - publication
         exclude_featured: false
     design:
-      view: citation 
-
-  - block: markdown
-    content:
-      title: "Submitted Papers"
-      text: ""
+      view: citation
+      columns: 1 
   - block: collection
+    id: submitted-papers
     content:
-      title: "Submitted Papers"
+      title: Submitted Papers
       filters:
         folders:
           - submitted-papers
         exclude_featured: false
     design:
       view: citation 
+      columns: 1 
 
 # Optional header image (relative to `static/media/` folder).
 banner:

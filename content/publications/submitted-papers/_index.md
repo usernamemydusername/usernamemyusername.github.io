@@ -1,5 +1,5 @@
 ---
-title: Submitted Papers
+title: ""
 cms_exclude: true
 
 # View.
