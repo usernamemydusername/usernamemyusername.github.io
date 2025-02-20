@@ -10,7 +10,7 @@ authors: Emrick., R.E., Huang, E. H., Mei, Y., Drut, J. E., Huang, J., & Lou, Y.
 # Author notes (optional)
 author_notes:
 
-#date: '2013-07-01T00:00:00Z'
+date: ''
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -71,10 +71,6 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: 
 ---
-
-{{% callout note %}}
-
-{{% /callout %}}
 
 {{% callout note %}}
 

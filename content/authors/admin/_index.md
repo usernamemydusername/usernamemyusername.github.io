@@ -56,32 +56,56 @@ education:
     date_end: 2025-05-10
     summary: |
       GPA: 3.99/4.00
+
       Thesis on compressible features.
     #button:
     #  text: 'Read Thesis'
     #  url: 'https://example.com'
 
 work:
-  - position: Awesome job
-    company_name: Awesome comp
+  - position: Undergraduate Research Assistant
+    company_name: Department of Mathematics, UNC Chapel Hill
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2024-09-04
+    date_end: 2025-04-30
+    summary: |2-
+      Supervised by Prof. Can Chen and Prof. Jingfang Huang
+      - Developed and tested a data-driven framework for analyzing T-product-based dynamical systems (TPDSs), providing significant computational improvements over traditional methods requiring tensor unfolding or flattening
+      - Proposed a framework for analyzing the controllability of multilinear dynamical systems (MLDSs) using Tucker decomposition and extending Kalman's rank condition, addressing controllability under stochastic noise
+      - Analyzed data informativity and stabilization of high-order tensors using T-product or tensor train decompositions
+
+  - position: Undergraduate Research Assistant
+    company_name: School of Data Science and Society, UNC Chapel Hill
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-09-27
+    date_end: 2025-04-30
+    summary: |2-
+      Supervised by Prof. Harlin Lee
+      - Developed key concepts hypergraphs for hyperlink prediction in AI papers scraping from arXiv, using RAKE for keyword extraction, resolving preprocessing issues, and optimizing undirected models
+      - Implemented a neural hypergraph prediction model by resolving challenges with concept filtering and data preprocessing
+
+  - position: Instructional Assistant
+    company_name: Department of Statistics and Operations Research, UNC Chapel Hill
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-08-18
+    date_end: 2025-05-10
     summary: |2-
       Responsibilities include:
-      - Awesome work
+      - Assisted in STOR 415: Intro to Optimization (three semesters) and STOR 445: Stochastic Modeling (one semester).
   
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Python, MATLAB, R
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Data Science, Applied Mathematics
         description: ''
         percent: 100
         icon: chart-bar
@@ -101,7 +125,7 @@ skills:
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Movies
         description: ''
         percent: 80
         icon: camera
@@ -117,12 +141,12 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Awesome awards
-    date: '2023-11-25'
-    awarder: awesome org
-    icon: coursera
+  - title: Spring 2025 Kennedy Scholarship within Department of Mathematics, UNC Chapel Hill
+    date: '2025-01-27'
+    awarder: Department of Mathematics, UNC Chapel Hill
+    icon: ''
     summary: |
-      brief intro
+      ''
 ---
 
 ## About Me

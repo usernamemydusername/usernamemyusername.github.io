@@ -2,15 +2,12 @@
 title: 'On Controllability of Multilinear Dynamical Systems.'
 
 # Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
-authors: Mei, Y.\*, He, Z.\*, Mao, X., Dong, A., & Chen, C. (* indicates equal contribution)  
-
+authors: 'Mei, Y.*, He, Z.*, Mao, X., Dong, A., & Chen, C.' 
 
 # Author notes (optional)
-author_notes:
+author_notes: '(* indicates equal contribution)'
 
-#date: '2013-07-01T00:00:00Z'
+date: ''
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -76,8 +73,5 @@ slides:
 
 {{% /callout %}}
 
-{{% callout note %}}
-
-{{% /callout %}}
 
 **Abstract:** 
