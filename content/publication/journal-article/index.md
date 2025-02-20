@@ -18,7 +18,7 @@ links:
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Control Systems Letters, vol. 8, pp. 3356-3361, 2024"
+publication: "IEEE Control Systems Letters, vol. 8, pp. 3356-3361, 2024"
 publication_short: ""
 
 abstract: 
@@ -33,7 +33,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://tarheels.live/canc/wp-content/uploads/sites/5230/2025/01/10.1109LCSYS.2025.3532470.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -65,11 +65,11 @@ slides:
 ---
 
 {{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+
 {{% /callout %}}
 
 {{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
+
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+**Abstract:** A wide variety of data can be represented using third-order tensors. Applications of these tensors include chemometrics, psychometrics, and image/video processing. However, traditional data-driven frameworks are not naturally equipped to process tensors without first unfolding or flattening the data, which can result in a loss of crucial higher-order structural information. In this letter, we introduce a novel framework for data-driven analysis of T-product-based dynamical systems (TPDSs), where the system evolution is governed by the T-product between a third-order dynamic tensor and a third-order state tensor. In particular, we examine the data informativity of TPDSs concerning system identification, stability, controllability, and stabilizability and illustrate significant computational improvements over unfolding-based approaches by leveraging the unique properties of the T-product. The effectiveness of our framework is demonstrated through both synthetic and real-world examples.
