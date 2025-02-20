@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: ''
 cms_exclude: true
 
 # View.
@@ -12,6 +12,7 @@ sections:
       text: ""
   - block: collection
     content:
+      title: "Publications"
       filters:
         folders:
           - publication
@@ -25,6 +26,7 @@ sections:
       text: ""
   - block: collection
     content:
+      title: "Submitted Papers"
       filters:
         folders:
           - submitted-papers

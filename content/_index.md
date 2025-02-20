@@ -45,7 +45,7 @@ sections:
       title: Featured Publications
       filters:
         folders:
-          - publication
+          - publications/publication
         featured_only: true
     design:
       view: article-grid
