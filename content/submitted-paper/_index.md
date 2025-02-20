@@ -1,2 +1,0 @@
-title: "Submitted Papers"
----
