@@ -8,14 +8,12 @@ external_link:
 tags:
 summary: |
     Advised by Prof. Serhan Ziya, Prof. Nilay Tanic Argon, and Prof. Yufeng Liu
-
-    - Examined gender, racial, and ethnic disparities in ESI levels (1-5) assignments after covid lockdown in three different community-based EDs, finding patterns similar to pre-lockdown assignments
-    - Analyzed changes in ESI assignments, length of stay, and admission rates before and after the COVID-19 lockdown, identifying increased high-acuity assignments post-lockdown in rural EDs
-    - Utilized logistic regression and chi-square tests on electronic health record data from EDs, finding significant predictors and disparities in ESI level assignments
-    - Wrote up a retrospective summary on different demographics and operational measures, assisted by conducting t-test with assumptions carefully checked
-
-
+    Jan. 2024 – Present 
 ---
 
 
 <!--more-->
+* Examined gender, racial, and ethnic disparities in ESI levels (1-5) assignments after covid lockdown in three different community-based EDs, finding patterns similar to pre-lockdown assignments
+* Analyzed changes in ESI assignments, length of stay, and admission rates before and after the COVID-19 lockdown, identifying increased high-acuity assignments post-lockdown in rural EDs
+* Utilized logistic regression and chi-square tests on electronic health record data from EDs, finding significant predictors and disparities in ESI level assignments
+* Wrote up a retrospective summary on different demographics and operational measures, assisted by conducting t-test with assumptions carefully checked
