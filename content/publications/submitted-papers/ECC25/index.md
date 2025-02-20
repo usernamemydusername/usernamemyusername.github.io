@@ -1,10 +1,11 @@
 ---
-title: ''
+title: 'On Controllability of Multilinear Dynamical Systems.'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
-authors:
+authors: Mei, Y.\*, He, Z.\*, Mao, X., Dong, A., & Chen, C. (* indicates equal contribution)  
+
 
 # Author notes (optional)
 author_notes:
@@ -21,7 +22,7 @@ doi: ''
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: 
+publication: 2025 European Control Conference (ECC) (Under review)
 publication_short:
 
 abstract: 
@@ -33,7 +34,7 @@ tags:
   - 
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
