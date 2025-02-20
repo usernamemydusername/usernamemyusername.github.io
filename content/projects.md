@@ -18,6 +18,7 @@ sections:
           - project
     design:
       date_format: 'January 2006'
+      show_date: false
       view: article-grid
       fill_image: false
       columns: 2
