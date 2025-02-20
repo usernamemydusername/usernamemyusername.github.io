@@ -56,7 +56,8 @@ sections:
       text: ""
       filters:
         folders:
-          - publications
+          - published-papers
+          - submitted-papers
         exclude_featured: false
     design:
       view: citation
