@@ -33,5 +33,5 @@ sections:
       title: Languages
       username: admin
     design:
-      show_skil_percentages: false
+      show_skill_percentages: false
 ---

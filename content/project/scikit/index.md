@@ -2,7 +2,7 @@
 title: ED Arrivals, Waiting Times, and ESI Assignment Changes Pre- and Post-COVID Lockdown
 subtitle: Dep. of Statistics and Operations Research, UNC
 date_start: 2023-01-10
-date_end: ""
+date_end:
 position: Research Assistant
 external_link:
 tags:
