@@ -1,5 +1,5 @@
 ---
-title: 'Matrix exponentials: Lie-Trotter-Suzuki fractal decomposition, Gauss Runge-Kutta polynomial formulation, and compressible features.'
+title: 'Matrix exponentials: Lie-Trotter-Suzuki fractal decomposition, Gauss Runge-Kutta polynomial formulation, and compressible features'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

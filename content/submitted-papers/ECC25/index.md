@@ -1,5 +1,5 @@
 ---
-title: 'On Controllability of Multilinear Dynamical Systems.'
+title: 'On Controllability of Multilinear Dynamical Systems'
 
 # Authors
 authors: 'Mei, Y.*, He, Z.*, Mao, X., Dong, A., & Chen, C.' 

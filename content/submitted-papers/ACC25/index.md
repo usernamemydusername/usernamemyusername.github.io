@@ -1,5 +1,5 @@
 ---
-title: 'Data-driven Analysis of Multilinear Dynamical Systems through Tensor Decompositions.'
+title: 'Data-driven Analysis of Multilinear Dynamical Systems through Tensor Decompositions'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
