@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2022-10-24
+date: 2025-02-19
 type: landing
 
 design:
@@ -32,14 +32,11 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        My previous and ongoing research focused mainly on efficiently managing high-dimensional (and two-dimensional) systems, hypergraph networks, and healthcare operations. Our group has developed several efficient frameworks for assessing tensor-based system properties. In addition to theoretical research, I actively develop professional skills to work with large-scale real-world data. Upon graduating from UNC, I plan to further explore the practical applications of these theoretical approaches in real-world data during my master's program. 
+        I am also open to collaboration, especially in interdisciplinary projects that connect theory with practical impact. 😃
     design:
       columns: '1'
   - block: collection
