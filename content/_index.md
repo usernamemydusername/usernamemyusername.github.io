@@ -46,7 +46,6 @@ sections:
       filters:
         folders:
           - published-papers
-          - submitted-papers
         featured_only: true
     design:
       view: article-grid

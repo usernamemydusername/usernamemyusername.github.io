@@ -10,7 +10,7 @@ authors: He, Z., Mei, Y., Mei, S., & Chen, C.
 # Author notes (optional)
 author_notes:
 
-date: ''
+date: ""
 doi: ''
 
 # Schedule page publish date (NOT publication's date).

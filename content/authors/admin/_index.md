@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Profile
+subtitle: ymei@unc.edu
 
 # Full name (for SEO)
 first_name: Yidan
@@ -146,7 +147,6 @@ awards:
     awarder: Department of Mathematics, UNC Chapel Hill
     icon: ''
     summary: |
-      ''
 ---
 
 ## About Me

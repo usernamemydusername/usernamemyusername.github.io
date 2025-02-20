@@ -10,7 +10,7 @@ authors: Emrick., R.E., Huang, E. H., Mei, Y., Drut, J. E., Huang, J., & Lou, Y.
 # Author notes (optional)
 author_notes:
 
-date: ''
+date: ""
 doi: ''
 
 # Schedule page publish date (NOT publication's date).

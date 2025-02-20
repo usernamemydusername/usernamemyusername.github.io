@@ -7,7 +7,7 @@ authors: 'Mei, Y.*, He, Z.*, Mao, X., Dong, A., & Chen, C.'
 # Author notes (optional)
 author_notes: '(* indicates equal contribution)'
 
-date: ''
+date: ""
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
