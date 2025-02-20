@@ -1,7 +1,7 @@
 ---
 # Display name
-title: Profile
-subtitle: ymei@unc.edu
+title: Yidan Mei
+#subtitle: ymei@unc.edu
 
 # Full name (for SEO)
 first_name: Yidan
@@ -18,7 +18,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-#role: Chief Scientist
+role: ymei@unc.edu
 
 # Organizations/Affiliations to display in Biography blox
 #organizations:
@@ -133,9 +133,9 @@ skills:
 
 languages:
   - name: English
-    percent: 100
+    #percent: 100
   - name: Chinese
-    percent: 100
+    #percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
