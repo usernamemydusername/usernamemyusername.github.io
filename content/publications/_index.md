@@ -4,21 +4,27 @@ cms_exclude: true
 
 # View.
 view: citation
+
 sections:
-  - block: collection
+  - block: markdown
     content:
       title: "Published Papers"
       text: ""
+  - block: collection
+    content:
       filters:
         folders:
           - publication
         exclude_featured: false
     design:
       view: citation 
-  - block: collection
+
+  - block: markdown
     content:
       title: "Submitted Papers"
       text: ""
+  - block: collection
+    content:
       filters:
         folders:
           - submitted-papers
@@ -30,4 +36,4 @@ sections:
 banner:
   caption: ''
   image: ''
---- 
+---
