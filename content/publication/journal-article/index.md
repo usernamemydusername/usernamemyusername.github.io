@@ -1,13 +1,7 @@
 ---
 title: "Data-Driven Analysis of T-Product-Based Dynamical Systems"
 authors:
-- Mao, Xin
-- Dong, Anqi 
-- He, Ziqin 
-- Mei, Yidan
-- Mei, Shenghan
-- Wang, Ren 
-- Chen, Can
+- Mao, X., Dong, A., He, Z., Mei, Y., Mei, S., Wang, R., & Chen, C
 author_notes:
 date: "2025-02-01T00:00:00Z"
 doi: "10.1109/LCSYS.2025.3532470"
